@@ -4,6 +4,8 @@ SSH
 
 My read me file
 
+What I learnt from this task.
+
 .What is a server
 
 .Where servers usually live
