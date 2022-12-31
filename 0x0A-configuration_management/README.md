@@ -1,5 +1,35 @@
 
 CONFIGURATION MANAGEMENT.
 
-server configuration management (also popularly referred to as IT Automation) is a solution for turning your infrastructure administration into a codebase, describing all processes necessary for deploying a server in a set of provisioning scripts that can be versioned and easily reused. It can greatly improve the integrity of any server infrastructure over time.
+WHat I learnt:
 
+-Configuration Management is the process of systematically handling changes to a system in a way it maintains integrity over time.
+
+-Automation is used to make the server a desirable state, through previously defined provisioning scripts using a tool's specific language and features.
+
+
+
+ Configuration Management Tools - These are software tools that help organizations with the automation of the configuration and maintainace of IT infrustructure process.
+ 
+   -They are used to define, track and maintain desired state of organization's IT systems and applications.
+   
+   -They include :  Puppet
+   
+                   Chef
+                   
+                   Ansible
+                   
+                   Salt
+
+
+
+-Server/IT orchestration -This is the process of automating and co-ordinating the provisioning, deployment and management of servers and IT resources.
+    
+    Benefits of Server Orchestration.
+   -Efficiency: Automation of deployement and management servers saves time and reduces the risk of human error
+   
+   -Scalability: It is easier to scale up or down the number of servers and IT resources required.
+   
+   -Reliability: It also ensures other servers and resources are consistently configured and maintained.
+   
+  
