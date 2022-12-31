@@ -5,7 +5,7 @@ WHat I learnt:
 
 -Configuration Management is the process of systematically handling changes to a system in a way it maintains integrity over time.
 
--Automation is used to make the server a desirable state, through previously defined provisioning scripts using a tool's specific language and features.
+-Automation plays a major role in the configuration process.
 
 
 
